@@ -3,7 +3,12 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.329
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FortBot2", "FortBot2\FortBot2.csproj", "{D5F54691-D5B5-4DA5-BC2F-65892DB960BD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FortBot2", "FortBot2\FortBot2.csproj", "{D5F54691-D5B5-4DA5-BC2F-65892DB960BD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{9EB60421-65BE-465C-A997-AFC44303973B}"
+	ProjectSection(SolutionItems) = preProject
+		todo.txt = todo.txt
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

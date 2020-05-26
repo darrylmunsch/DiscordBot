@@ -10,3 +10,15 @@ C:\Users\darry\source\repos\FortBot2\FortBot2\obj\Debug\netcoreapp2.1\FortBot2.d
 C:\Users\darry\source\repos\FortBot2\FortBot2\obj\Debug\netcoreapp2.1\FortBot2.pdb
 C:\Users\darry\source\repos\FortBot2\FortBot2\obj\Debug\netcoreapp2.1\FortBot2.csprojAssemblyReference.cache
 C:\Users\darry\source\repos\FortBot2\FortBot2\bin\Debug\netcoreapp2.1\appsettings.json
+D:\Discord Bots\FortBot2\FortBot2\bin\Debug\netcoreapp2.1\appsettings.json
+D:\Discord Bots\FortBot2\FortBot2\bin\Debug\netcoreapp2.1\Settings.job
+D:\Discord Bots\FortBot2\FortBot2\bin\Debug\netcoreapp2.1\FortBot2.deps.json
+D:\Discord Bots\FortBot2\FortBot2\bin\Debug\netcoreapp2.1\FortBot2.runtimeconfig.json
+D:\Discord Bots\FortBot2\FortBot2\bin\Debug\netcoreapp2.1\FortBot2.runtimeconfig.dev.json
+D:\Discord Bots\FortBot2\FortBot2\bin\Debug\netcoreapp2.1\FortBot2.dll
+D:\Discord Bots\FortBot2\FortBot2\bin\Debug\netcoreapp2.1\FortBot2.pdb
+D:\Discord Bots\FortBot2\FortBot2\obj\Debug\netcoreapp2.1\FortBot2.csprojAssemblyReference.cache
+D:\Discord Bots\FortBot2\FortBot2\obj\Debug\netcoreapp2.1\FortBot2.AssemblyInfoInputs.cache
+D:\Discord Bots\FortBot2\FortBot2\obj\Debug\netcoreapp2.1\FortBot2.AssemblyInfo.cs
+D:\Discord Bots\FortBot2\FortBot2\obj\Debug\netcoreapp2.1\FortBot2.dll
+D:\Discord Bots\FortBot2\FortBot2\obj\Debug\netcoreapp2.1\FortBot2.pdb
